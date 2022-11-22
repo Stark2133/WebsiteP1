@@ -13,8 +13,36 @@ body{
     height: 400px;
   }
  h1{
-    color: #163d1d;
+    color: #163d1d; 
+    font-size: 40px;
+    font-style: italic;
  }
  h2{
     color: #0d2311;
+    font-style: oblique;
  }
+ p{
+    font-family: cursive;
+ }
+ li{
+    font-family: cursive;
+ }
+ th{
+    font-family: cursive;
+ }
+ td{
+    font-family: cursive;
+ }
+ a{
+    color: #0d2311;
+ }
+ img:hover{
+    background-color: rgb(116, 140, 104);
+ }
+ 
+ 
+ /*                         CLASS SECTION                               */
+
+.logo {
+ background-color: #b0bea0;
+}

@@ -1,0 +1,171 @@
+.father{
+    margin: 0;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.div1{
+    background-color: rgb(214, 243, 233);
+    height: 785px;
+}
+.name{
+    font-family: 'Sacramento', cursive;
+    font-size: 4em;
+    color: #00b8b8;
+    margin-bottom: 0;
+}
+.namep
+{
+    font-family: 'Oswald', sans-serif;
+    color: #66BFBF;
+    margin-top: 0
+
+
+}
+.cloud{
+    position: relative;
+    right: 333px;
+}
+
+.mountain{
+    height: 375px;
+    width: 1388px;
+}
+
+.div2{
+    margin-top: 70px;
+}
+
+
+.myimg{
+    height: 250px;
+    width: 250px;
+
+}
+
+.thatsme{
+    color: #379f9f;
+    font-size: 2em;
+    margin-top: 37px;
+}
+.thatsmep{
+    margin-bottom: 70px;
+}
+
+.hr1{
+  border-style: none;
+ height: 22px;
+ background-color: white;
+ border-top-style: dotted;
+ width: 5%;
+ border-top-width: thick;
+ margin-top: 80px;
+}
+.div3{
+    margin-top: 80px;
+   margin: 73px auto 73px auto;
+  
+}
+.myskills{
+    color: #379f9f;
+    font-size: 2em;
+}
+.div3in{
+   width: 50%;
+   margin: 200px auto 200px auto;
+   text-align: left;
+   line-height: 2;
+  
+}
+.skillgif{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  
+}
+.skillp{
+    position: relative;
+   
+}
+
+.skillhading{
+    color: #379f9f;
+    font-size: 1.2em;
+   
+}
+
+.wingsimg{
+    float: right;
+}
+.gamegif{
+    width: 30%;
+    float: right;
+}
+.intrst{
+    font-size: 1.2em;
+    color: #379f9f;
+    
+}
+.git{
+    color: #379f9f;
+}
+.gitp{
+    color: #379f9f;
+   
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 24px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    top: 60px;
+  }
+  
+  .btn:hover {
+    background: #4caae0;
+    background-image: -webkit-linear-gradient(top, #4caae0, #143f5c);
+    background-image: -moz-linear-gradient(top, #4caae0, #143f5c);
+    background-image: -ms-linear-gradient(top, #4caae0, #143f5c);
+    background-image: -o-linear-gradient(top, #4caae0, #143f5c);
+    background-image: linear-gradient(to bottom, #4caae0, #143f5c);
+    text-decoration: none;
+  }
+
+  .div4{
+    margin: 0;
+    background-color: #8bd2d2;
+    height: 137px;
+    top: 130px;
+    position: relative;
+    padding-top: 38px;
+  }
+  .a1{
+    display: inline-block;
+    width: 100px;
+    font-style: normal;
+    color: #2a7e7e;
+    text-decoration: none;
+  }
+  .a1:hover{ 
+    color: #143f5c;
+ }
+
+ .p1{
+    margin: 22px;
+    position: relative;
+    top: 12px;
+ }
+ .p2{
+    color: #0f2b3e;
+ }

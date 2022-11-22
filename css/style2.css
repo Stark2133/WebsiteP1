@@ -1,0 +1,101 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    position: relative;
+}
+.div1{
+    background-color: #DEF5E5;
+    height: 763px;
+    position: relative;
+    padding: 30px;
+}
+.cloud{
+    background-color: #DEF5E5;
+    position: relative;
+    left: 200px;
+}
+.name{
+    margin: 32.160px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 3em;
+    color: #00b8b8;
+    
+}
+.namep{
+    position: relative;
+    right: 15px;
+    color: #05b7b7;
+    }
+.mountain{
+    width: 100%;
+    height: 387px;
+    position: absolute;
+    left: 0px;
+    bottom: 1px;
+
+}
+.pro{
+    font-style: italic;
+    font-size: large;
+    position: fixed;
+}
+.span1{
+    position: relative;
+    left: 26.7px;
+}
+
+
+/*                             FOR D2                              */
+
+.div2{
+    background-color: #cee7c9;
+    height: 470px;
+}
+.me{
+     font-style: italic;
+     color: #00969b;
+     
+}
+
+.div3{
+    background-color: rgb(224, 239, 212);
+    position: relative;
+    bottom: 22px;
+    height: 561px;
+}
+.skill{
+    font-family: 'Playfair Display', serif;
+    position: relative;
+    top: 30px;
+}
+.skillh3{
+    font-family: cursive;
+    color: #11999E;
+}
+.skillimg{
+    margin-top: 25px;
+
+}
+.div4{
+   background-color: rgb(208, 228, 228);
+   height: 351px;
+   position: relative;
+   bottom: 24px;
+}
+.gif{
+    margin-top: 10px;
+}
+.hr{
+    position: relative;
+    bottom: 332px;
+}
+.h4{
+    font-family: 'Sacramento', cursive;
+}
+.h3l{
+    font-family: cursive;
+}
+.div5{
+    margin-top: auto;
+}

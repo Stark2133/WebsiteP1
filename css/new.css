@@ -1,0 +1,31 @@
+.father {
+    text-align: center;
+}
+.par {
+    font-size: 2em;
+}
+.parp {
+    font-size: 2em;
+    text-align: left;
+    line-height: 1.4em;
+}
+.skillp {
+    margin-top: 10px;
+    text-align: left;
+}
+.wings {
+    margin-top: 62px;
+}
+.father2 {
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+.skills {
+    margin: 100px auto 100px auto;
+ 
+}
+.skillimg {
+    width: 192px;
+    
+ 
+}
